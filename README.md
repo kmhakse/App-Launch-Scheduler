@@ -1,2 +1,2 @@
 # App-Launch-Scheduler
-AppLaunch Scheduler is a smart utility that displays all installed apps and lets you schedule any app to auto-launch at up to three preset times using built-in alarms.
+AppLaunch Scheduler is an Android utility that displays a complete list of all installed applications upon launch, allowing users to conveniently view and access their apps in one place. The app includes a scheduling feature with three configurable alarm slots, enabling users to set up to three separate times to automatically launch any selected application. This tool is ideal for automating daily routines or ensuring timely access to frequently used apps.
